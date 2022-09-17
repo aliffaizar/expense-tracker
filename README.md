@@ -1,2 +1,2 @@
 # expense-tracker
-practicing Context Api React.js
+practicing Context React.js
